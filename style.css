@@ -1,6 +1,8 @@
 body {
-    max-height: 100vh;
-    background-color: #19172e;
+    background-image: url('./../Virtual-Piano-EMI/images/bg.jpg') !important;
+    background-size: cover !important;
+    background-position: center center !important;
+    background-repeat: no-repeat !important;
 }
 
 #piano {
